@@ -3,8 +3,8 @@ import Modal from "react-modal";
 import Index from "../../components/about/index";
 
 const heroContent = {
-  heroImage: "img/hero/dark.jpg",
-  heroMobileImage: "img-mobile",
+  heroImage: "img/intro/me1.jpeg",
+  heroMobileImage: "img/hero/me1.jpeg",
   heroTitleName: "Eberechi Williams",
   heroDesignation: "Fulls Stack Developer",
   heroDescriptions: `I'm a Nigerian based Fullstack developer & front‑end developer focused on
