@@ -38,6 +38,10 @@ const Blog = () => {
   }
 
   return (
+    <>Comming soon</>
+  )
+
+  return (
     <>
       {/* Blog 1 Starts */}
       <div className="col-12 col-md-6 col-lg-6 col-xl-4 mb-30">

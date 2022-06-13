@@ -51,6 +51,10 @@ const Portfolio = () => {
   }
 
   return (
+    <>Comming soon</>
+  )
+
+  return (
     <Tabs>
       <TabList className="portfolio-tab-list">
         <Tab>ALL</Tab>
